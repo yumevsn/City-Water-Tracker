@@ -1,0 +1,5 @@
+{
+  "name": "City Water Tracker",
+  "description": "A professional tool for recording and tracking city council water meter readings, calculating monthly consumption, and estimating utility charges with visual analytics and export capabilities.",
+  "requestFramePermissions": []
+}
