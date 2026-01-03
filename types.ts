@@ -14,6 +14,9 @@ export interface AppSettings {
   ratePerUnit: number;
   currency: string;
   unit: string;
+  notificationsEnabled: boolean;
+  notificationFrequency: 'monthly' | 'bi-monthly' | 'none';
+  notificationDay: number;
 }
 
 export type TabType = 'history' | 'insights' | 'settings';
